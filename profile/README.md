@@ -14,6 +14,7 @@
 
 | User |  Role  |
 |---------|----------------|
+|<a href='https://github.com/ssam2s'>@ssam2s</a>| |
 |<a href='https://github.com/seongjxn'>@seongjxn</a>| |
 |<a href='https://github.com/Yoon-men'>@Yoon-men</a>| |
 |<a href='https://github.com/joun2301'>@joun2301</a>| |
