@@ -1,20 +1,24 @@
-## Hi there 👋
+## Introduction
+<p align="center">
+저희는 다양한 기술을 이용한 업무 자동화 프로그램과 사용자 맞춤 솔루션을 개발하고 있는 프리랜서팀입니다.<br/><br/>
+원하는 프로그램들을 자세한 상담을 통해 구체적으로 기획하여 실제 개발까지 진행해드리고 있으며,<br/><br/>
+저희가 개발한 프로그램과 솔루션으로 클라이언트분들의 다양한 비즈니스에 도움이 되길 바랍니다.<br/><br/>
+<h3 align="center">"당신의 상상을 현실로."</h3>
+</p>
 
-<!--
+## Members
+- **서준혁**(<a href='https://github.com/ssam2s'>@ssam2s</a>) : 리더 / 프로젝트 관리 / AI 기술 구현<br/><br/>
+- **장성진**(<a href='https://github.com/seongjxn'>@seongjxn</a>) : 메인 개발 / 매크로 구현 / 각종 우회 기법 구현<br/><br/>
+- **윤태영**(<a href='https://github.com/Yoon-men'>@Yoon-men</a>) : 서브 개발 / 알고리즘 설계 / UI 디자인<br/><br/>
+- **김민준**(<a href='https://github.com/joun2301'>@joun2301</a>) : 서브 개발 / 매크로 구현
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
-| User |  Role  |
-|---------|----------------|
-|<a href='https://github.com/ssam2s'>@ssam2s</a>| |
-|<a href='https://github.com/seongjxn'>@seongjxn</a>| |
-|<a href='https://github.com/Yoon-men'>@Yoon-men</a>| |
-|<a href='https://github.com/joun2301'>@joun2301</a>| |
+## Projects
+| Date | Project Name | Charge |
+|:---------:|:----------------:|:---------:|
+|2021.11~2021.12|업비트 API를 이용한 Home Trading System(HTS)|서준혁|
+|2022.02~2022.03|실시간 네이버 밴드 게시글 수집 및 카카오톡 전송 솔루션|서준혁|
+|2022.06~2022.07|네이버 쇼핑 내 경쟁 최적화 상품 수집 프로그램|서준혁|
+|2022.08~2022.09|KOSPI/KOSDAQ 주식 종목 데이터 수집 프로그램|서준혁|
+|2022.09~2022.10|서든어택 계정 ERP 솔루션|윤태영|
+|2022.11~2022.12|패킷 분석을 통한 서든어택 배심원 정보 식별 프로그램|윤태영|
+|2022.12~2023.02|리니지M 계정 ERP(구글 시트 연동) 솔루션|서준혁|
